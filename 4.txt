@@ -1,0 +1,2 @@
+user = "esza@gmail.com"
+mdp = "eqdqdqà$pfd^bfdbfp^pa$*qdlfdqùdlde^pfsf$"
